@@ -1,2 +1,2 @@
 # gymwebsite.github.oi
-Creating my sample Gym Website
+Developing a High-Quality Gym Website: My Journey
